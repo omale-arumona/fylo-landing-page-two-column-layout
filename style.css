@@ -22,7 +22,6 @@ body {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-variation-settings: 100;
 }
 
 .get-started-btn1 {
@@ -242,7 +241,6 @@ body {
 .mid-section-writeup-img-container {
   width: 100vw;
   display: flex;
-  margin-top: none;
   align-items: center;
   border-top: 2px solid hsl(240, 75%, 98%);
   justify-content: center;
